@@ -170,6 +170,7 @@ void testGraphs()
             }
         }
     }
+    delete listGraph;
 }
 
 int main()
